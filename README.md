@@ -58,12 +58,6 @@
 - npm or yarn
 - Git
 
-### Clone the Repository
-```bash
-git clone https://github.com/sourya001/Ai_Task.git
-cd QuickAI
-```
-
 ### Setup Client (Frontend)
 ```bash
 cd client
@@ -201,7 +195,7 @@ QuickAI/
 
 ## 🌐 Demo
 
-Visit our live demo: [QuickAI Live Demo](https://quickai.vercel.app)
+Visit our live demo: [QuickAI Live Demo](https://quick-ai-mu-swart.vercel.app)
 
 ## 🤝 Contributing
 
@@ -223,15 +217,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - [Vercel](https://vercel.com) for deployment
 - [Neon](https://neon.tech) for database services
 
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/sourya001/Ai_Task?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sourya001/Ai_Task?style=social)
-![GitHub issues](https://img.shields.io/github/issues/sourya001/Ai_Task)
-![GitHub license](https://img.shields.io/github/license/sourya001/Ai_Task)
 
 ---
 
-**Built with ❤️ by Sourya**
+**Built with ❤️ by Hamza**
 
 
